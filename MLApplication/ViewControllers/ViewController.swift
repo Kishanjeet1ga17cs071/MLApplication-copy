@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+import CoreML
 class ViewController: UIViewController,UINavigationControllerDelegate,UIImagePickerControllerDelegate {
     
     @IBOutlet var imageViewObject: UIImageView!
