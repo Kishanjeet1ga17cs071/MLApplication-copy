@@ -27,7 +27,6 @@
 		DF70E4B22ADFF54200B7FF94 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF70E4B02ADFF54200B7FF94 /* LaunchScreen.storyboard */; };
 		DF7ECD8A2AE12EC500133EA1 /* CovidReportClassifier.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = DF7ECD892AE12EC500133EA1 /* CovidReportClassifier.mlmodel */; };
 		DF8CBE1A2AE101F6003BE727 /* Resnet50.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = DF8CBE192AE101F6003BE727 /* Resnet50.mlmodel */; };
-		DFA6F59E2AF8EB0700211D43 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = DFA6F59D2AF8EB0700211D43 /* art.scnassets */; };
 		DFB0658F2AF0B8FF000EB5C6 /* YOLOv3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = DFB0658E2AF0B8FF000EB5C6 /* YOLOv3.mlmodel */; };
 		DFBE84542AF8EE1A00A2369B /* converse_bump.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DFBE844F2AF8EE1A00A2369B /* converse_bump.jpg */; };
 		DFBE84552AF8EE1A00A2369B /* converse_obj.mtl in Resources */ = {isa = PBXBuildFile; fileRef = DFBE84502AF8EE1A00A2369B /* converse_obj.mtl */; };
@@ -59,7 +58,6 @@
 		DF70E4B32ADFF54200B7FF94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DF7ECD892AE12EC500133EA1 /* CovidReportClassifier.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = CovidReportClassifier.mlmodel; path = ../../../CovidReportClassifier.mlmodel; sourceTree = "<group>"; };
 		DF8CBE192AE101F6003BE727 /* Resnet50.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = Resnet50.mlmodel; path = ../../../../Downloads/Resnet50.mlmodel; sourceTree = "<group>"; };
-		DFA6F59D2AF8EB0700211D43 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		DFB0658E2AF0B8FF000EB5C6 /* YOLOv3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = YOLOv3.mlmodel; path = ../../../YOLOv3.mlmodel; sourceTree = "<group>"; };
 		DFBE844F2AF8EE1A00A2369B /* converse_bump.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = converse_bump.jpg; sourceTree = "<group>"; };
 		DFBE84502AF8EE1A00A2369B /* converse_obj.mtl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = converse_obj.mtl; sourceTree = "<group>"; };
@@ -132,7 +130,6 @@
 				DF70E4AE2ADFF54200B7FF94 /* Assets.xcassets */,
 				DF70E4B02ADFF54200B7FF94 /* LaunchScreen.storyboard */,
 				DF70E4B32ADFF54200B7FF94 /* Info.plist */,
-				DFA6F59D2AF8EB0700211D43 /* art.scnassets */,
 			);
 			path = MLApplication;
 			sourceTree = "<group>";
@@ -231,7 +228,6 @@
 				DFBE84572AF8EE1A00A2369B /* converse.jpg in Resources */,
 				DF70E4B22ADFF54200B7FF94 /* LaunchScreen.storyboard in Resources */,
 				DFBE84582AF8EE1A00A2369B /* laces.jpg in Resources */,
-				DFA6F59E2AF8EB0700211D43 /* art.scnassets in Resources */,
 				DFBE84542AF8EE1A00A2369B /* converse_bump.jpg in Resources */,
 				DF70E4AF2ADFF54200B7FF94 /* Assets.xcassets in Resources */,
 				DFBE84552AF8EE1A00A2369B /* converse_obj.mtl in Resources */,
